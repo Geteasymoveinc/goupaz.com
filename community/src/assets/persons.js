@@ -18,5 +18,21 @@ export const data = {
         country: "USA",
       },
     },
+    {
+      id: uuidv4(),
+      name: "Emin ALiyev",
+      img: "https://miro.medium.com/fit/c/128/128/1*t99ZVny9-TsgHLhSWXAvdQ.jpeg",
+      links: {
+        website: "https://medium.com/@eminfaliyev",
+        linkedin: "https://www.linkedin.com/in/eminfaliyev/",
+        github: "",
+      },
+      jobTitle: "Founder/ CEO",
+      location: {
+        city: "Chicago",
+        state: "Illinois",
+        country: "USA",
+      },
+    },
   ],
 }
